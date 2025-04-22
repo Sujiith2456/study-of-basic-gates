@@ -1,5 +1,5 @@
-### Name: Tharun M
-### Reg No: 24005882
+### Name: Sujiith
+### Reg No: 24012036
 ### EXPERIMENT NO: 1 : Study of basic gates
 
 ### AIM:
